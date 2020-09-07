@@ -1,6 +1,6 @@
 # Facts against drama: fertility and child mortality rates
 
-[Gapminder](https://www.gapminder.org/) is an independent Swedish foundation with no political, religious or economic affiliations. This *fact tank* produces free resources, based on reliable statistics, promoting an easy-to-understand, **fact-based worldview** that is not overdramatic.
+[Gapminder](https://www.gapminder.org/) is an independent Swedish foundation with no political, religious or economic affiliations. This *fact tank* produces free resources, based on reliable statistics, promoting an easy-to-understand, **fact-based worldview** that is not overdramatic – as the usual narrative tends to be.
 
 **Statistics** is the science of *learning from data* and of reducing *complex* structures and trends to *succinct* **numerical descriptions** and *powerful* **visualisations**. As such, it is an essential tool for understanding our complex world as it is.
 
@@ -25,8 +25,8 @@ We can go further, looking at the **evolution** of data from 1950 to 2015.
   <br>
     <em>Scatter plot for a range of 65 years</em>
 </p>
-This plot now shows the world initially divided between a **developed** world – low child mortality and low natality – and a **developing** one – high child mortality and high natality. However, **this distinction** largely **disappears** as we approach our days: in 2015, most of the world has caught up with the developed countries, so to speak.
+This plot now shows the world initially divided between a **developed** world – low child mortality and low natality – and a **developing** one – high child mortality and high natality. However, **this distinction** largely **disappears** as we approach our days: in 2015, most of the world has caught up with the developed countries, so to speak. This is a tremendous achievement for humanity, and it is nice to see it from just a few numbers.
 
-## Conclusions
-This is a tremendous achievement for humanity, and it is nice to see it from just a few numbers.
+## Conclusion and remarks
 We live in a **globalised world**, where more people than ever care about global development. The world has never been less bad, even though it is far from perfect.
+However, a declining child mortality is only a partial answer to the question of why the global fertility rate has fallen so rapidly. As Max Roser from [Our World in Data](https://ourworldindata.org/) discusses in depth in his [article](https://ourworldindata.org/fertility-rate#what-explains-the-change-in-the-number-of-children-women-have), there are other two major reasons to consider: the empowerment of women (increasing access to education and increasing labour market participation) and a rising cost of bringing up children (to which the decline of child labor contributed).
