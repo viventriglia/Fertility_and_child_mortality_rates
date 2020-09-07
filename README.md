@@ -13,15 +13,18 @@ Following Gapminder, a point that we want to make is that the number of babies p
 <p align="center">
   <img src="images/1965.png" width="100%">
   <br>
-    <em>Scatter plot for the year 1965. The colour map is described in the text; the dimension of the circles depends on the population of the specific country.</em>
+    <em>Scatter plot for the year 1965; the colour map is described in the text and the dimension of the circles depends on the population of the specific country</em>
 </p>
 The dimension of the dots depends on the population of each country. Also, different colours designate different regions of the world: Africa is blue, Europe is gold, America is green and Asia is coral.
 This plot shows very simply that, when children have hard times surviving, women have more babies.
 
 ## But the situation is getting better
-
+We can go further, looking at the evolution of data from 1950 to 2015.
 <p align="center">
   <img src="animated.gif" alt="." width="100%">
   <br>
-    <em>Animation :)</em>
+    <em>Scatter plot for a range of 65 years</em>
 </p>
+This plot now shows the world initially divided between a developed world – low child mortality and low natality – and a developing one – high child mortality and high natality. However, this distinction largely disappears as we approach our days: in 2015, most of the world has caught up with the developed countries, so to speak.
+
+That is a tremendous achievement for humanity, and it is nice to see it from just a few numbers.
