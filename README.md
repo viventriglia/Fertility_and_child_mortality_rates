@@ -1,6 +1,5 @@
 # Facts against drama: fertility and child mortality rates
 
-## gapminder.org
 [Gapminder](https://www.gapminder.org/) is an independent Swedish foundation with no political, religious or economic affiliations. This *fact tank* produces free resources, based on reliable statistics, promoting an easy-to-understand, *fact-based* worldview that is not overdramatic.
 
 Statistics is the science of *learning from data* and of reducing *complex* structures and trends to *succinct* numerical descriptions and *powerful* visualisations. As such, it is an essential tool for understanding our complex world as it is.
