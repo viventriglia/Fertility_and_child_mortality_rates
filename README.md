@@ -1,5 +1,5 @@
 # Facts against drama: fertility and child mortality rates
-*A data analysis portfolio, using pandas*
+*A data analysis portfolio, using pandas amd statsmodels*
 
 [Gapminder](https://www.gapminder.org/) is an independent Swedish foundation with no political, religious or economic affiliations. This *fact tank* produces free resources, based on reliable statistics, promoting an easy-to-understand, **fact-based worldview** that is not overdramatic – as the usual narrative tends to be.
 
