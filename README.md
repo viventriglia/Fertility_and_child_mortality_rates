@@ -2,7 +2,7 @@
 *A data analysis portfolio, using pandas amd statsmodels*
 
 [Gapminder](https://www.gapminder.org/) is an independent Swedish foundation with no political, religious or economic affiliations. This *fact tank* produces free resources, based on reliable statistics, promoting an easy-to-understand, **fact-based worldview** that is not overdramatic – as the usual narrative tends to be.
-[file](https://github.com/viventriglia/Fertility_and_child_mortality_rates/blob/master/dio_kan.html)
+[file](https://raw.githubusercontent.com/viventriglia/Fertility_and_child_mortality_rates/master/dio_kan.html)
 **Statistics** is the science of *learning from data* and of reducing *complex* structures and trends to *succinct* **numerical descriptions** and *powerful* **visualisations**. As such, it is an essential tool for understanding our complex world as it is.
 
 ## The dataset
